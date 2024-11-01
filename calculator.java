@@ -8,4 +8,8 @@ public class{
 		return a + b;
 	}
 
+	public double subtractions(double a, double b){
+		return a - b;
+	}
+
 }

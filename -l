@@ -1,0 +1,29 @@
+[33mcommit bf2396d8d89d7196b94c1f829371e6cd1e39c66a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: David Francis <kingalexd6908@gmail.com>
+Date:   Fri Nov 1 12:15:40 2024 +0100
+
+    Added CHANGELOG.md file in our project.
+
+[33mcommit 5626ac5d6dcdbc90f8c169ec08457285ffe1e2af[m
+Author: David Francis <kingalexd6908@gmail.com>
+Date:   Fri Nov 1 12:07:05 2024 +0100
+
+    Added addition to handle decimal number in calculator.java class
+
+[33mcommit c96c6eb4f47658fb5bb369ab84e310483c9df661[m
+Author: David Francis <kingalexd6908@gmail.com>
+Date:   Fri Nov 1 11:59:05 2024 +0100
+
+    Added addition method in calculator.java class
+
+[33mcommit dad3814aa7e4763569d5ad6f83c8a743a4262ab9[m
+Author: David Francis <kingalexd6908@gmail.com>
+Date:   Fri Nov 1 11:57:35 2024 +0100
+
+    Added more info about our app
+
+[33mcommit 4c19ae960a96db34cc121608e9ce2bd1496dee25[m
+Author: David Francis <kingalexd6908@gmail.com>
+Date:   Fri Nov 1 11:24:03 2024 +0100
+
+    Added readme file to our project
